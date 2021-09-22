@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://frosty-ritchie-cd7fa3.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/ProjectXfire/devChallenges_Upload_Image_FE">
       Solution Front-End
     </a>
         <a href="https://github.com/ProjectXfire/devChallenges_Upload_Image_BE">
