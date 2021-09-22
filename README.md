@@ -1,3 +1,75 @@
+<!-- Please update value in the {}  -->
+
+<h1 align="center">Upload Image</h1>
+
+<div align="center">
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+</div>
+
+<div align="center">
+  <h3>
+    <a href="https://{your-demo-link.your-domain}">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://{your-url-to-the-solution}">
+      Solution Front-End
+    </a>
+        <a href="https://github.com/ProjectXfire/devChallenges_Upload_Image_BE">
+      Solution Back-End
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/O2iGT9yBd6xZBrOcVirx">
+      Challenge
+    </a>
+  </h3>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Built With](#built-with)
+- [Features](#features)
+- [How to use](#how-to-use)
+
+<!-- OVERVIEW -->
+
+## Overview
+
+This project show a list of images that has been uploaded.
+The main page is the list of image, you can copy the link and paste in your browser to see the image, and you can also remove it if you want it.
+The second page is for upload an image, to go there only click in the button add new image. In this page you have two options to upload an image, drag and drop in the box or using the button choose a file, if you want to return to the main page, click in back to list.
+
+The challenge was how to upload the image in Firebase Storage and then recover the link and saved in the MongoDB to show the list.
+
+I have learned more about Firebase Storage and practice using nestjs to connect with MongoDB.
+
+### Built With
+
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+
+Front-End Tools
+
+- [React](https://reactjs.org/)
+- [NextJS](https://nextjs.org/)
+- [Styled-Components](https://styled-components.com/)
+
+Back-End Tools
+
+- [NestJS](https://nestjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [Firebase](https://firebase.google.com/)
+
+## Features
+
+<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/O2iGT9yBd6xZBrOcVirx) was to build an application to complete the given user stories.
+
+## How To Use -------------->
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

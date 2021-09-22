@@ -1,7 +1,11 @@
-import '../styles/globals.css'
-import type { AppProps } from 'next/app'
+// Providers
+import "react-toastify/dist/ReactToastify.css";
+// My CSS
+import "../styles/globals.css";
+// Next
+import type { AppProps } from "next/app";
 
 function MyApp({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />
+  return <Component {...pageProps} />;
 }
-export default MyApp
+export default MyApp;
